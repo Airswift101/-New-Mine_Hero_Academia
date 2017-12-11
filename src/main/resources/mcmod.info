@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mham",
+  "name": "Mine Hero Academia Mod",
+  "description": "This mod adds Stuff from the Anime Boku No Hero Academia (My Hero Academia) such as armor and quirks of it.",
+  "version": "${1.0}",
+  "mcversion": "${1.12.1}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Airswift101 , FavouriteDragon , LukiRol , TheMaor2804",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

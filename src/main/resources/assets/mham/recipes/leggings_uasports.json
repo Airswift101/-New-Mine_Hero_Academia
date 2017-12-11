@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": 
+    [
+        "BBB",
+        "B B",
+        "B B"
+    ],
+
+    "key": 
+    {
+        "B": 
+        {
+            "item": "mham:blue_fabric"
+        }
+    },
+
+    "result": 
+    {
+        "item": "mham:leggings_uasports"
+    }
+}
